@@ -4,7 +4,8 @@
     "assets/img/*",          
     "assets/vendor/*", 
     "assets/css/*",
-    "assets/resume/*"
+    "assets/resume/*",
+    "media/webFonts/opensans/opensanslight.woff2"
   ],
  "icons": [
   {
