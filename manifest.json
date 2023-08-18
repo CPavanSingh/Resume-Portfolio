@@ -2,13 +2,10 @@
  "name": "App",
  "web_accessible_resources": [
     "assets/img/*", 
-    "assets?img/favicon/*"         
+    "assets/img/favicon/*"         
     "assets/vendor/*", 
     "assets/css/style.css",
     "assets/resume/*",
-    "media/webFonts/opensans/opensanslight.woff2",
-    "https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css",
-    "https://cdnjs.cloudflare.com/ajax/libs/materialize/0.95.3/css/materialize.min.css"
   ],
  "icons": [
   {
