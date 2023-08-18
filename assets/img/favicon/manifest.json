@@ -1,5 +1,11 @@
 {
  "name": "App",
+ "web_accessible_resources": [
+    "assets/img/*",          
+    "assets/vendor/*", 
+    "assets/css/*",
+    "assets/resume/*"
+  ],
  "icons": [
   {
    "src": "\/android-icon-36x36.png",
