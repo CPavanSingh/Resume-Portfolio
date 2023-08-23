@@ -1,8 +1,9 @@
 {
  "name": "App",
  "web_accessible_resources": [
-    "assets/img/*", 
-    "assets/img/favicon/*"         
+    "assets/img/*",
+    "assets/img/Pavan/*", 
+    "assets/img/favicon/*",         
     "assets/vendor/*", 
     "assets/css/style.css",
     "assets/resume/*",
