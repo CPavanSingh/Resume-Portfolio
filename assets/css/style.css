@@ -725,7 +725,7 @@ small {
   .video-grid {
     margin-top: 10%;
     grid-template-columns: repeat(2, 1fr); /* One column */
-    grid-template-rows: repeat(2, 1fr); /* Ten rows */
+    grid-template-rows: repeat(6, 1fr); /* Ten rows */
     padding: 0.5rem;
   }
 }
