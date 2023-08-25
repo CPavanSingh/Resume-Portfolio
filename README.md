@@ -8,7 +8,7 @@
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://cpavansingh.github.io/Resume-Portfolio/" target="_blank"><img src="examples/preview.gif">
+    <a href="https://cpavansingh.github.io/Resume-Portfolio/" target="_blank"><img src="examples/pavan_website.gif">
   </a>
   </kbd>
 </p>
